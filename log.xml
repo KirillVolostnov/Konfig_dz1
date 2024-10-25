@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<log><command><text>ls</text><result>['virtual_filesystem']</result><timestamp>2024-10-12 10:24:43.953893</timestamp></command><command><text>echo ooo</text><result>ooo</result><timestamp>2024-10-12 10:24:51.132821</timestamp></command><command><text>exit</text><result>Exiting the shell</result><timestamp>2024-10-12 10:25:06.234432</timestamp></command><command><text>exit</text><result>Exiting shell.</result><timestamp>2024-10-12 10:25:06.236364</timestamp></command></log>
